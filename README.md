@@ -12,4 +12,3 @@ Foi utilizado o Docker Desktop para Windows para rodar uma instância do RabbitM
 docker run -d --hostname rabbitserver --name rabbitmq-server -p 15672:15672 -p 5672:5672 rabbitmq:3-management
 ```
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
